@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0238-product-of-array-except-self) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,8 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
