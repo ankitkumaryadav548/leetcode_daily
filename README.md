@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
