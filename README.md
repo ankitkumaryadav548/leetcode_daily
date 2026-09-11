@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
 ## Hash Table
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
