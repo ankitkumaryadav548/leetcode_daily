@@ -5,6 +5,7 @@ public:
     ListNode* sortList(ListNode* head) {
 
         // If list has 0 or 1 node, it is already sorted
+        //base case
         if (head == NULL || head->next == NULL) {
             return head;
         }
@@ -20,10 +21,11 @@ public:
 
         // Divide the list into two halves
         ListNode* second = slow->next;
+        ListNode* first = slow;
         slow->next = NULL;
 
         // Sort both halves
-        ListNode* first = sortList(head);
+        first = sortList(head);
         second = sortList(second);
 
         // Merge the two sorted halves
