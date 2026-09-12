@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0707-design-linked-list) |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
