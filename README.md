@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
