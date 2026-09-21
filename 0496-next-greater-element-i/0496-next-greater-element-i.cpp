@@ -31,31 +31,40 @@ public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
 
         stack<int> st;
-        map<int, int> mp;
+        vector<int> greater(nums2.size());
 
-        // Find next greater element for nums2
-        for(int i = 0; i < nums2.size(); i++) {
+        // Traverse nums2 from right to left
+        for(int i = nums2.size() - 1; i >= 0; i--) {
 
-            while(!st.empty() && nums2[i] > st.top()) {
-
-                mp[st.top()] = nums2[i];
+            // Remove elements which cannot be next greater
+            while(!st.empty() && st.top() <= nums2[i]) {
                 st.pop();
             }
 
+            // If stack is empty, no greater element exists
+            if(st.empty()) {
+                greater[i] = -1;
+            }
+            else {
+                greater[i] = st.top();
+            }
+
+            // Push current element
             st.push(nums2[i]);
         }
 
-        // Remaining elements have no greater element
-        while(!st.empty()) {
-            mp[st.top()] = -1;
-            st.pop();
-        }
-
-        // Create answer for nums1
         vector<int> ans;
 
+        // Find nums1 elements in nums2
         for(int i = 0; i < nums1.size(); i++) {
-            ans.push_back(mp[nums1[i]]);
+
+            for(int j = 0; j < nums2.size(); j++) {
+
+                if(nums1[i] == nums2[j]) {
+                    ans.push_back(greater[j]);
+                    break;
+                }
+            }
         }
 
         return ans;
