@@ -2,6 +2,7 @@
 // public:
 //     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 
+    // Method 1 => using brute force
 //         int n = nums.size();
 
 //         vector<int> ans;
@@ -23,6 +24,7 @@
 //     }
 // };
 
+//Method 2 =>using nearest greater index
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
