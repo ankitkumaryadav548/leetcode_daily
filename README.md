@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0206-reverse-linked-list) |
