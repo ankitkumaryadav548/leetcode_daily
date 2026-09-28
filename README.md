@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -203,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
