@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Pigeonhole Principle
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
