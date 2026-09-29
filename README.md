@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
 | [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
