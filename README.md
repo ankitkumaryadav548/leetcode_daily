@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
