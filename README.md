@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
