@@ -12,7 +12,7 @@ public:
             int sum = carry;
 
             if (l1 != NULL) {
-                sum += l1->val;
+                sum += l1->val;   // sum  = sum + l1->val ;
                 l1 = l1->next;
             }
 
