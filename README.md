@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 ## Greedy
 |  |
