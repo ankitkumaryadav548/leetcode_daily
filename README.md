@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
@@ -367,5 +369,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
