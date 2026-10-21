@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
