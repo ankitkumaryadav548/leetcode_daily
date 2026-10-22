@@ -7,7 +7,7 @@ public:
             string rev = ans[i];
             reverse(rev.begin() , rev.end());
             for(int j = i+1;j<n;j++){
-                if(rev == ans[j]) count++ ;
+                if(rev== ans[j]) count++ ;
             }
         }
         return count;
