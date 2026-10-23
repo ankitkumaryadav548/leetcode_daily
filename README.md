@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
