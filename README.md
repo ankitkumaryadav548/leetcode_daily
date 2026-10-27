@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
