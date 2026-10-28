@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
@@ -136,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1046-last-stone-weight) |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -409,5 +415,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
