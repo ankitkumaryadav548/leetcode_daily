@@ -1,427 +1,49 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0004-median-of-two-sorted-arrays) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0035-search-insert-position) |
-| [0041-first-missing-positive](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0041-first-missing-positive) |
-| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
-| [0084-largest-rectangle-in-histogram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
-| [0238-product-of-array-except-self](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0238-product-of-array-except-self) |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
-| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
-| [0746-min-cost-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1046-last-stone-weight](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1046-last-stone-weight) |
-| [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
-| [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
-| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
-| [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
-| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
-| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0238-product-of-array-except-self) |
-| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
-| [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
-| [0746-min-cost-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
-| [1137-n-th-tribonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
-| [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
-## Greedy
-|  |
-| ------- |
-| [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
-| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
-## Sorting
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
-| [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
-| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
-| [1402-reducing-dishes](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1402-reducing-dishes) |
-| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
-| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0004-median-of-two-sorted-arrays) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0035-search-insert-position) |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-| [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [2389-longest-subsequence-with-limited-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2389-longest-subsequence-with-limited-sum) |
-## Sliding Window
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-| [1052-grumpy-bookstore-owner](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1052-grumpy-bookstore-owner) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
-| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
-| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0367-valid-perfect-square](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0367-valid-perfect-square) |
-| [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
-| [1137-n-th-tribonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
-| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
-## Hash Table
-|  |
-| ------- |
-| [0041-first-missing-positive](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0041-first-missing-positive) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
-| [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
-| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
-| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
-| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0268-missing-number) |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
-| [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
-| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
-| [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
-| [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
-| [0876-middle-of-the-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
-| [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
-## Pigeonhole Principle
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
-| [0287-find-the-duplicate-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0004-median-of-two-sorted-arrays) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
-| [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [1046-last-stone-weight](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1046-last-stone-weight) |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0092-reverse-linked-list-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0092-reverse-linked-list-ii) |
-| [0142-linked-list-cycle-ii](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
-| [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
-| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
-| [0160-intersection-of-two-linked-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0160-intersection-of-two-linked-lists) |
-| [0206-reverse-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
-| [0237-delete-node-in-a-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0237-delete-node-in-a-linked-list) |
-| [0328-odd-even-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0328-odd-even-linked-list) |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
-| [0707-design-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0707-design-linked-list) |
-| [0725-split-linked-list-in-parts](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0725-split-linked-list-in-parts) |
-| [0876-middle-of-the-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
-| [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
-| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
-| [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
-## Design
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [0707-design-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0707-design-linked-list) |
-| [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
-| [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
-| [0206-reverse-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
-| [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
-| [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0048-rotate-image) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-## Merge Sort
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0148-sort-list) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
-| [0084-largest-rectangle-in-histogram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
-| [0094-binary-tree-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
-| [0143-reorder-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0143-reorder-list) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
-| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
-| [0234-palindrome-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0234-palindrome-linked-list) |
-| [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
-| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
-| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
-| [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
-| [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
-| [0496-next-greater-element-i](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0496-next-greater-element-i) |
-| [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1944-number-of-visible-people-in-a-queue](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1944-number-of-visible-people-in-a-queue) |
-| [2487-remove-nodes-from-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2487-remove-nodes-from-linked-list) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0100-same-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0112-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0226-invert-binary-tree) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
-| [0515-find-largest-value-in-each-tree-row](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
-| [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
-| [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
-| [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
-| [0669-trim-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
-| [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
-## Doubly-Linked List
-|  |
-| ------- |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
-## Queue
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0225-implement-stack-using-queues) |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
-| [0242-valid-anagram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0242-valid-anagram) |
-| [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
-| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0020-valid-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Range Minimum/Maximum Query
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-## Data Stream
-|  |
-| ------- |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [0901-online-stock-span](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0901-online-stock-span) |
-## Monotonic Queue
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0239-sliding-window-maximum) |
-## Simulation
-|  |
-| ------- |
-| [0682-baseball-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0682-baseball-game) |
-| [0844-backspace-string-compare](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0844-backspace-string-compare) |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0112-path-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0112-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0226-invert-binary-tree) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
-| [0450-delete-node-in-a-bst](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
-| [0515-find-largest-value-in-each-tree-row](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
-| [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
-| [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
-| [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
-| [0669-trim-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0112-path-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0112-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
-| [0199-binary-tree-right-side-view](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0226-invert-binary-tree) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
-| [0450-delete-node-in-a-bst](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
-| [0515-find-largest-value-in-each-tree-row](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
-| [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
-| [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
-| [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
-| [0669-trim-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0226-invert-binary-tree) |
-| [0515-find-largest-value-in-each-tree-row](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
-| [0617-merge-two-binary-trees](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0617-merge-two-binary-trees) |
-| [0965-univalued-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0965-univalued-binary-tree) |
-## DP on Trees
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
-| [0563-binary-tree-tilt](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0563-binary-tree-tilt) |
-## Backtracking
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0257-binary-tree-paths) |
-## Binary Lifting
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-## Lowest Common Ancestor
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0098-validate-binary-search-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
-| [0669-trim-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0703-kth-largest-element-in-a-stream](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0703-kth-largest-element-in-a-stream) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
-| [0509-fibonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0509-fibonacci-number) |
-| [1137-n-th-tribonacci-number](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
-<!---LeetCode Topics End-->
+<div align="center">
+
+# 🧠 Coding Solutions
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-11--2--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **1** |
+| 🟡 Medium | **0** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| c_cpp | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-11-02* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
