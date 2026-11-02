@@ -47,3 +47,18 @@
 *Last updated: 2026-11-02* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
+## Hash Table
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
+<!---LeetCode Topics End-->
