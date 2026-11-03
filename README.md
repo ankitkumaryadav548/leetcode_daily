@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0198-house-robber) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/1636-sort-array-by-increasing-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
