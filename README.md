@@ -65,5 +65,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
