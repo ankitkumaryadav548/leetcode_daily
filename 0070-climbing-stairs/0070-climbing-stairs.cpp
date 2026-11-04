@@ -1,12 +1,14 @@
 class Solution {
 public:
+    //memoization 
+    int st(int n , vector<int>&ans){
+        if(n == 0 || n == 1) return 1;
+        if(ans[n] != -1) return ans[n];
+        return ans[n]  = st(n-1  , ans)+st(n-2 , ans);
+    }
     int climbStairs(int n) {
-        vector<int>ans(n+1 , -1);
-        ans[0] = 1;
-        if(n>=1) ans[1] = 1;
-        for(int i=2;i<=n;i++){
-            ans[i] = ans[i-1]+ans[i-2];
-        }
-        return ans[n];
+        vector<int>ans(n+1 , -1) ;
+        return st(n , ans);
+
     }
 };
