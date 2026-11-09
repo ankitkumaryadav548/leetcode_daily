@@ -98,4 +98,20 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
