@@ -9,7 +9,7 @@ class Solution {
         }
         return true ;
     }
-    public void bfs(int start , List<List<Integer>> adj , boolean[] visited){
+    private void bfs(int start , List<List<Integer>> adj , boolean[] visited){
         Queue<Integer>q = new LinkedList<>();
         q.add(start);
         while(q.size()>0){
