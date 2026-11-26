@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0070-climbing-stairs) |
+| [3360-stone-removal-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/3360-stone-removal-game) |
 ## Memoization
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/0841-keys-and-rooms) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ankitkumaryadav548/leetcode_daily/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
